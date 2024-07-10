@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.67.0](https://github.com/googleapis/api-linter/compare/v1.66.2...v1.67.0) (2024-07-10)
+
+
+### Features
+
+* **AIP-134:** update_mask must be OPTIONAL ([#1394](https://github.com/googleapis/api-linter/issues/1394)) ([9fc0d05](https://github.com/googleapis/api-linter/commit/9fc0d05f3d89905ea7d3b22c9b44fbfa79edac07))
+
+
+### Bug Fixes
+
+* docs typo ([#1401](https://github.com/googleapis/api-linter/issues/1401)) ([4acf04c](https://github.com/googleapis/api-linter/commit/4acf04c6829ffe7f57cf2997c4f9ccc956de9274))
+
 ## [1.66.2](https://github.com/googleapis/api-linter/compare/v1.66.1...v1.66.2) (2024-06-04)
 
 
